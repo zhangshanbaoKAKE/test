@@ -4,3 +4,5 @@
 --- DateTime: 2018/10/15 19:18
 ---
 print("这是一个lua文件")
+
+print("我在github上写的数据")
